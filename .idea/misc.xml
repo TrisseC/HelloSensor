@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Android Studio Projects/HelloSensor/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Android Studio Projects/HelloSensor/app/src/main/res/layout/activity_accelerometer.xml" value="0.20380434782608695" />
+        <entry key="..\:/Android Studio Projects/HelloSensor/app/src/main/res/layout/activity_compass.xml" value="0.18819655521783182" />
+        <entry key="..\:/Android Studio Projects/HelloSensor/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android Studio Projects/HelloSensor/app/src/main/res/layout/fragment_home.xml" value="0.18819655521783182" />
+        <entry key="..\:/Android Studio Projects/HelloSensor/app/src/main/res/menu/bottom_nav_menu.xml" value="0.381025641025641" />
       </map>
     </option>
   </component>
